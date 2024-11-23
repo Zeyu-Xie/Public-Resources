@@ -1,3 +1,3 @@
 # Public-Resources
 
-A repository for displaying public sources of private repositories.
+A repository for displaying public resources of private repositories.
